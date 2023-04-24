@@ -1,0 +1,26 @@
+JWT Based Authentication
+ - must have a mysql install
+ - update the application.properties at 
+    /Jwt-Based-Authentication-main/src/main/resources/application.properties
+    with port number and database name
+    and done all the tables will be autocreated in that perticular database
+ - Jwt Ready to run 
+ - Run the JwtApplication.java Class 
+ - at /Jwt-Based-Authentication-main/src/main/java/com/Abhishek/JwtApplication.java 
+
+ Image API & Appoinment API
+    -Node js must be installed
+    - To install dependencies
+      $ npm install
+    - go to src folder via terminal
+     $ cd src
+    - run the app.js file
+     $ node app.js
+
+Frontend
+- go the Frontend folder in terminal
+- run the following to install al dependencies
+    $ npm install
+- as all the dependencies are downloaded
+    $ npm start
+
